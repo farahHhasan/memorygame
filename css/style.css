@@ -112,7 +112,7 @@ img {
     transform: rotatey(180deg);
     color: white;
     font-size: 35px;
-    line-height: 0.6em;
+    line-height: 0.9em;
 }
 .face {
     position: absolute;
