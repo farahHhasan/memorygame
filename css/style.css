@@ -111,7 +111,8 @@ img {
     background-color: #3c0a15;
     transform: rotatey(180deg);
     color: white;
-    font-size: 40px;
+    font-size: 35px;
+    line-height: 0.6em;
 }
 .face {
     position: absolute;
